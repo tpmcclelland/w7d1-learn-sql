@@ -1,8 +1,8 @@
 # Questions:
 
 * How many users are there?
- 50
- ```
+ ...50
+ ...```
  select count(*) from users;
  ```
 * What are the 5 most expensive items?
